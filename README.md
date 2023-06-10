@@ -53,7 +53,7 @@
 ### Other trash
 
 - [супербиток.сука.сайт landing page](https://github.com/Keroosha/superbitok-tg-landing)
-  - [Visit http://супербиток.сука.сайт](https://xn--90ahkitcifoe.xn--80atui.xn--80aswg/)
+  - [Visit https://супербиток.сука.сайт](https://xn--90ahkitcifoe.xn--80atui.xn--80aswg/)
   - Landing page for [Супер быстрая покупка битка](https://t.me/pokupkabitka)
   - Designed FULLY in Word 2003 as a shitpost
 - [кубач.сука.сайт landing page](https://github.com/Keroosha/Coobach.Ladning)
