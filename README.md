@@ -60,6 +60,10 @@
     - [Visit https://кубач.сука.сайт](https://xn--80ab0azbw.xn--80atui.xn--80aswg/)
     - Landing page for private gaming community as a stub for 80/443 port
     - Vanilla HTML/CSS with [Geo Bootstrap theme](http://code.divshot.com/geo-bootstrap)
+- [keroosha.сука.сайт personal landing page](https://xn--80afgl4c.xn--80atui.xn--80aswg/keroosha/keroosha-whoami)
+    - [Visit: https://keroosha.сука.сайт](https://keroosha.xn--80atui.xn--80aswg/)
+    - Next.JS + Docker nothing special
+    - Based on [cat-street DeusEx eBook](https://github.com/cat-street/deus-ex-ebook/) styles
 - [Simple PAC hoster](https://github.com/Keroosha/simple-pac-hoster)
   - A little PAC generator to hack iOS missing manual SOCKS Proxy Configuration
 - [Shrinkpack to Nexus NPM gist](https://gist.github.com/Keroosha/0cc961a90e3d67bc4e303f0136ef75d9)
