@@ -27,7 +27,10 @@
     and related communities like [pro .net](https://t.me/pro_net) and [F# chat](https://t.me/fsharp_chat)
 - [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
   - Add [Winampify](https://github.com/remigallego/winampify) plugin
-
+- [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net)
+  - Created Demo for WebAuthn.NET library
+  - [Visit https://webauthn.vanbukin.com](https://webauthn.vanbukin.com/)
+  
 
 ### Telegram Bots
 
