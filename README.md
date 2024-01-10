@@ -25,6 +25,9 @@
 - [Grinder](https://github.com/fsharplang-ru/grinder)
   - Administration tool for CIS [.NET Chat's family](https://t.me/DotNetRuChat) 
     and related communities like [pro .net](https://t.me/pro_net) and [F# chat](https://t.me/fsharp_chat)
+  - Currently inactive, replaced with vahter-bot
+- [Vahter-bot](https://github.com/fsharplang-ru/vahter-bot)
+  - Superior replacement for a Grinder bot
 - [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
   - Add [Winampify](https://github.com/remigallego/winampify) plugin
 - [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net)
