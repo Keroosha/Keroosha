@@ -8,7 +8,8 @@
 - Meme lord
 - Gun Owner
 - ~~Localhost~~ SysOp
-  - [сука.сайт](https://сука.сайт) owner
+  - [сука.сайт](https://сука.сайт) domain owner
+  - [сука.сайт](https://cybergulag.today) domain owner
 - Music Nerd
 
 ## OSS shitposts
